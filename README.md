@@ -2,6 +2,9 @@
 
 # prediksi : an predictve text/markdown editor
 
+#### warning
+project uder progress, may not work as expected.
+
 #### overview
 prediksi is a web app, hosted using django server. It provides general purpose online text/markdown editor with context aware word autocompletion.
 
