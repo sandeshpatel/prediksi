@@ -21,7 +21,7 @@ to set up your own text editor,
 1. ```git clone https://github.com/agusmakmun/django-markdown-editor```
 2. ```git clone https://github.com/sandeshpatel/prediksi.git```
 3. ```git clone https://github.com/MarioVilas/googlesearch.git```
-4. ```mv prediksi/martor.js  django-markdown-editor/static/martor/js/martor.min.js```
+4. ```mv prediksi/martor.js  django-markdown-editor/static/martor/js/martor.js```
 5. ```pip install django-markdown-editor``` 
 6. ```pip install googlesearch```
 7. ```pip install numpy```
